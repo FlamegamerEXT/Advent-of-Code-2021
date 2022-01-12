@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Decoder
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ Decoder\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/16\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (19/12/2021)\r\n
+comment1.params=
+comment1.target=Decoder()
+comment1.text=\r\n\ Decoder\ takes\ a\ hexadecimal\ string,\ and\ derives\ meaning\ from\ the\ binary\ values.\ \r\n
+comment2.params=queue\ returnVersionSum
+comment2.target=long\ openPacket(java.util.Queue,\ boolean)
+comment2.text=\r\n\ This\ recursive\ method\ opens\ binary\ packets,\ some\ of\ which\ contain\ their\ own\ packet,\ and\ returns\ either\ the\ sum\ of\ the\ versions\r\n\ of\ all\ of\ the\ packets\ if\ returnVersionSum\ is\ true,\ or\ the\ encoded\ expression\ if\ returnVersionSum\ is\ false.\r\n
+comment3.params=arguments
+comment3.target=void\ main(java.lang.String[])
+numComments=4
