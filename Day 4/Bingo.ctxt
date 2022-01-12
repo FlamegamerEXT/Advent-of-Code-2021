@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bingo
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ Bingo\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/4\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (5/12/2021)\r\n
+comment1.params=
+comment1.target=Bingo()
+comment1.text=\r\n\ Bingo\ reads\ a\ file\ with\ number\ calls\ and\ bingo\ boards,\ and\ plays\ Bingo\ for\ all\ the\ boards\ using\ the\ ordered\ number\ calls.\r\n
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+numComments=3

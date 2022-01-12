@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BingoObject
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ BingoObject\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/4\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (5/12/2021)\r\n
+comment1.params=numsArray
+comment1.target=BingoObject(java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BingoObject\r\n
+comment2.params=n
+comment2.target=boolean\ checkNumber(int)
+comment2.text=\r\n\ Checks\ a\ given\ number\ off\ the\ bingo\ board\ if\ it\ is\ on\ the\ board\r\n
+comment3.params=
+comment3.target=boolean\ checkBoard()
+comment3.text=\r\n\ Checks\ if\ the\ bingo\ board\ has\ a\ completed\ row\ or\ column,\ and\ saves\ if\ it\ has\ won.\r\n
+comment4.params=
+comment4.target=int\ unmarkedSum()
+comment4.text=\r\n\ Returns\ the\ sum\ of\ all\ the\ unmarked\ entries\ on\ the\ board\r\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ Print\ the\ info\ of\ all\ of\ the\ entries\ on\ the\ board\r\n
+numComments=6
