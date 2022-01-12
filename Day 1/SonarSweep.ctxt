@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SonarSweep
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ SonarSweep\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/1\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (2/12/2021)\r\n
+comment1.params=
+comment1.target=SonarSweep()
+comment1.text=\r\n\ SonarSweep\ takes\ in\ a\ file\ of\ numbers,\ and\ counts\ the\ number\ of\ increases\ from\ one\ number\ to\ the\ next.\r\n
+comment2.params=n1\ n2
+comment2.target=int\ reportIncrease(int,\ int)
+comment2.text=Returns\ 1\ if\ the\ second\ number\ is\ greater\ than\ the\ first,\ else\ it\ returns\ 0
+comment3.params=arguments
+comment3.target=void\ main(java.lang.String[])
+numComments=4
