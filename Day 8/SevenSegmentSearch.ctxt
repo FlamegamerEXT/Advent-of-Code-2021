@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SevenSegmentSearch
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ SevenSegmentSearch\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/8\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (9/12/2021)\r\n
+comment1.params=
+comment1.target=SevenSegmentSearch()
+comment1.text=\r\n\ SevenSegmentSearch\ decodes\ a\ complete\ set\ of\ segments\ orientations,\ and\ then\ uses\ that\ info\ to\ get\ a\ 4-digit\ number\r\n
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+numComments=3
