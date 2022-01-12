@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BinaryDiagnostic
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ BinaryDiagnostic\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/3\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (3/12/2021)\r\n
+comment1.params=
+comment1.target=BinaryDiagnostic()
+comment1.text=\r\n\ BinaryDiagnostic\ takes\ in\ a\ series\ of\ ones\ and\ zeroes\ to\ get\ a\ reading\ from\ them\r\n
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+numComments=3
