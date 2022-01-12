@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Octopus
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ Octopus\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/11\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (15/12/2021)\r\n
+comment1.params=
+comment1.target=Octopus()
+comment1.text=\r\n\ Octopus\ simulates\ the\ flashing\ of\ a\ group\ of\ Dumbo\ Octopus,\ until\ they\ all\ flash\ simultaneously\r\n
+comment2.params=p\ table
+comment2.target=boolean[]\ adjacentsBool(java.awt.Point,\ int[][])
+comment2.text=Returns\ an\ Array\ of\ booleans\ to\ say\ whether\ a\ group\ of\ points\ exists\ within\ the\ dimensions\ of\ the\ given\ table
+comment3.params=p
+comment3.target=java.awt.Point[]\ adjacentsPoint(java.awt.Point)
+comment3.text=Returns\ an\ Array\ of\ points\ that\ are\ neighbouring\ a\ given\ point
+comment4.params=p\ table
+comment4.target=java.util.HashSet\ adjacents(java.awt.Point,\ int[][])
+comment4.text=Returns\ a\ set\ of\ adjacent\ Points\ that\ do\ exist\ within\ the\ dimensions\ of\ the\ given\ table
+comment5.params=arguments
+comment5.target=void\ main(java.lang.String[])
+numComments=6
