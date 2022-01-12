@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Polymerization
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ Polymerization\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/14\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (16/12/2021)\r\n
+comment1.params=
+comment1.target=Polymerization()
+comment1.text=\r\n\ Polymerization\ simulates\ the\ expansion\ of\ a\ given\ polymer\ \r\n
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+numComments=3
