@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SmokeBasin
+comment0.text=\r\n\ An\ indepth\ description\ of\ what\ SmokeBasin\ is\ attempting\ to\ do\ can\ be\ found\ here\:\r\n\ https\://adventofcode.com/2021/day/9\r\n\r\n\ Author\:\ Matthew\ McCabe\r\n\ Version\:\ 1.0.0\ (10/12/2021)\r\n
+comment1.params=
+comment1.target=SmokeBasin()
+comment1.text=\r\n\ SmokeBasin\ takes\ a\ heightmap\ and\ finds\ 'basins'\ by\ getting\ minimum\ points\ and\ then\ finds\ the\ largest\ basins\r\n
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+numComments=3
