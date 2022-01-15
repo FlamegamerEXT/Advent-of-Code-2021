@@ -16,6 +16,7 @@ USER INSTRUCTIONS: From this you can make an account to get a unique set of
 puzzle inputs, which need to be saved as .txt files
 Once this has been done, the programs will be able to give an output for
 your personal inputs.
+All of the programs are run on the BlueJ IDE.
 
 SKILLS: Each of the puzzles demonstrates the following skills:
  - All Days: Reading Files using Scanners, Strings, booleans and ints,
